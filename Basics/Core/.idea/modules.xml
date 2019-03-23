@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" filepath="$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayTypes/ArrayTypes.iml" filepath="$PROJECT_DIR$/ArrayTypes/ArrayTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitl/PrimitiveDataTypes.iml" filepath="$PROJECT_DIR$/untitl/PrimitiveDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forloop/forloop.iml" filepath="$PROJECT_DIR$/forloop/forloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse/ifElse.iml" filepath="$PROJECT_DIR$/IfElse/ifElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileloop/whileloop.iml" filepath="$PROJECT_DIR$/whileloop/whileloop.iml" />
+    </modules>
+  </component>
+</project>
