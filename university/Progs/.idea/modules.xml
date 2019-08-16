@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Evennumber/Evennumber.iml" filepath="$PROJECT_DIR$/Evennumber/Evennumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/Progs.iml" filepath="$PROJECT_DIR$/Progs.iml" />
       <module fileurl="file://$PROJECT_DIR$/comparetwonums/comparetwonums.iml" filepath="$PROJECT_DIR$/comparetwonums/comparetwonums.iml" />
     </modules>
