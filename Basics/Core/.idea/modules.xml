@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" filepath="$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayLIstAdv/ArrayLIstAdv.iml" filepath="$PROJECT_DIR$/ArrayLIstAdv/ArrayLIstAdv.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayTypes/ArrayTypes.iml" filepath="$PROJECT_DIR$/ArrayTypes/ArrayTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arraylilstadv/Arraylilstadv.iml" filepath="$PROJECT_DIR$/Arraylilstadv/Arraylilstadv.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/Assignment/Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassDemo/ClassDemo.iml" filepath="$PROJECT_DIR$/ClassDemo/ClassDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
