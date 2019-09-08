@@ -10,6 +10,7 @@ public class BankApp {
     //constructor
     public BankApp(String name){
         this.name = name;
+        System.out.println("Constructor called");
     }
     //ask user for age
 
@@ -24,7 +25,8 @@ public class BankApp {
     }
 
     public void getInfo(){
-        System.out.println('Name of user');
+        System.out.println("Name of user: "+ this.name);
+        System.out.println("Name of balance: "+ amount);
     }
 }
 
