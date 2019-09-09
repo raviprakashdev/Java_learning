@@ -7,7 +7,7 @@ public class BankUser {
         john.accAge(45);
         john.accAmount(10000);
 
-        john.getInfo(san);
+        john.getInfo();
 
     }
 }
