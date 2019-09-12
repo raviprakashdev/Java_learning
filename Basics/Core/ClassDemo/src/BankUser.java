@@ -15,5 +15,9 @@ public class BankUser {
 
         ravi.getInfo();
 
+        ravi.accAmount(200);
+        john.accAmount(5000);
+        john.getInfo();
+        ravi.getInfo();
     }
 }
