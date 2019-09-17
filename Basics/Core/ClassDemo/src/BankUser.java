@@ -19,5 +19,11 @@ public class BankUser {
         john.accAmount(5000);
         john.getInfo();
         ravi.getInfo();
+
+//        inheritance starts here
+
+        SbiUser ram=new SbiUser("ram");
+        ram.accAmount(30);
+        ram.getInfo();
     }
 }
