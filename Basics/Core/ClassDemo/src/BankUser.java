@@ -24,6 +24,7 @@ public class BankUser {
 
         SbiUser ram=new SbiUser("ram");
         ram.accAmount(30);
+        ram.accTax("mytaxinfo");
         ram.getInfo();
     }
 }

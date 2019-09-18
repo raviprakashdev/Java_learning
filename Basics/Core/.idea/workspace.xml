@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72031acf-e8e9-46c2-baa9-12e4140267cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClassDemo/src/BankUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClassDemo/src/BankUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ClassDemo/BankUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ClassDemo/BankUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,26 +17,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
+            <state relative-caret-position="12">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClassDemo/src/SbiUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            <state relative-caret-position="330">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankUser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="572">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -79,15 +77,16 @@
         <option value="$PROJECT_DIR$/Arraylilstadv/src/arraylistadv.java" />
         <option value="$PROJECT_DIR$/ClassDemo/src/ClassDemo.java" />
         <option value="$PROJECT_DIR$/ClassDemo/src/BankApp.java" />
-        <option value="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" />
         <option value="$PROJECT_DIR$/ClassDemo/src/BankUser.java" />
+        <option value="$PROJECT_DIR$/ClassDemo/src/SbiUser.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="y" value="23" />
+    <option name="width" value="767" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,7 +120,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,9 +239,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="19" width="613" height="813" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2852349" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28926176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,7 +250,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49861497" visible="true" weight="0.31661892" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49861497" weight="0.31661892" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,24 +405,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
+        <state relative-caret-position="12">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassDemo/src/SbiUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassDemo/src/BankUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="330">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
