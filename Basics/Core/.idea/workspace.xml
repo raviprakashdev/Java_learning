@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72031acf-e8e9-46c2-baa9-12e4140267cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Abstraction/Abstraction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/src/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/src/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstraction/src/Sbi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../university/Progs/Factorial/Factorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../university/Progs/Factorial/src/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../university/Progs/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../university/Progs/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../university/Progs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../university/Progs/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72031acf-e8e9-46c2-baa9-12e4140267cf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -160,7 +149,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568920675294" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568994770344" />
     <property name="jdk.selected.PLUGIN_MODULE" value="IntelliJ IDEA Community Edition IC-183.5912.21" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.6033287" />
@@ -470,6 +459,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Abstraction/src/Abstraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Abstraction/src/Banker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -490,13 +486,6 @@
             <element signature="e#612#613#0" expanded="true" />
             <element signature="e#650#651#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Abstraction/src/Abstraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
         </state>
       </provider>
     </entry>
