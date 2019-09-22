@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b186307-4e36-4dfb-850d-7369fd1cb5ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Factorial/Factorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factorial/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternA/PatternA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatternA/src/PatternA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FarhenhiteToCelcius/src/FarhenhiteTocelcius.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+        <entry file="file://$PROJECT_DIR$/PatternA/src/PatternA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="110">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -58,6 +49,7 @@
         <option value="$PROJECT_DIR$/Question2/src/Question2.java" />
         <option value="$PROJECT_DIR$/FarhenhiteToCelcius/src/FarhenhiteTocelcius.java" />
         <option value="$PROJECT_DIR$/Factorial/src/Factorial.java" />
+        <option value="$PROJECT_DIR$/PatternA/src/PatternA.java" />
       </list>
     </option>
   </component>
@@ -85,7 +77,7 @@
             <path>
               <item name="Progs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Progs" type="462c0819:PsiDirectoryNode" />
-              <item name="Factorial" type="462c0819:PsiDirectoryNode" />
+              <item name="PatternA" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -96,7 +88,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568919837688" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569134750712" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -114,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.PatternA">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Factorial" />
@@ -129,9 +121,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestOfThree" />
-      <module name="LargestOf Three" />
+    <configuration name="PatternA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PatternA" />
+      <module name="PatternA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternA" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.FarhenhiteTocelcius" />
         <item itemvalue="Application.Question2" />
         <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.LargestOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +168,7 @@
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.554785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31206658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,6 +249,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FarhenhiteToCelcius/src/FarhenhiteTocelcius.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -264,10 +263,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Factorial/src/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/PatternA/src/PatternA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
